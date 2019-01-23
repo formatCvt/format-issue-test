@@ -15,28 +15,10 @@ Affected devices (tested):
 * Xiaomi Mi Pad 3 (Android 7)
 
 Affected devices (top devices from crashlytics statistics):
-* HUAWEI HWI-AL00
-* HUAWEI BKL-AL20
-* HUAWEI BKL-AL00
-* HUAWEI SNE-AL00
-* HUAWEI BLN-AL20
-* HUAWEI PRA-TL10
-* HUAWEI BLN-AL40
-* HUAWEI INE-AL00
-* HUAWEI NXT-TL00
-* Xiaomi Redmi Note 5A
-* Xiaomi Redmi 6A
-* Xiaomi MI 6
-* Xiaomi MI 5s Plus
-* vivo NEX A
-* vivo Y75A
-* vivo V1813BT
-* vivo X21UD A
-* OPPO A83
-* OPPO PADM00
-* OPPO A73
-* OPPO R11t
-* OPPO A77t
+* TCT (Alcatel) Alcatel 1X (U5A_PLUS_4G), Android 8.1
+* Xiaomi Redmi 6A (cactus), Android 8.1
+* Xiaomi Redmi 6 (cereus), Android 8.1
+* Huawei Honor 7A (HWDUA-M), Android 8.1
 
 Code to reproduce (with delay between calls to `StringUtils::format`):
 ```
